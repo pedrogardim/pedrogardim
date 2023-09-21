@@ -1,18 +1,18 @@
-# Hello there! 👋
+### Hello there! 👋 I'm Pedro Gardim
 
-I'm a 22-year-old web developer with a passion for crafting meaningful digital experiences. As I continue on my journey of self-improvement and learning, I've been fortunate enough to co-found and work on some fascinating projects.
+I'm a 22-year-old web developer, based on Valencia, Spain, with a passion for solving problems. As I continue on my journey of self-improvement and learning, I've been fortunate enough to co-found and work on some fascinating projects.
 
-## 🚀 Co-founder of Agape App
-Together with an incredible team, I co-founded **Agape App**, striving to bring innovative solutions to our users. Stay tuned for more updates on this!
+- I co-founded **Agape**, a innovative Meet & Connect App 👫, based on React Native. 
+- I worked on some cool personal projects such as:
+  - **[Modulab](https://github.com/pedrogardim/modulab)** 🎛️: A modular playground for web components.
+  - **[Musabeat](https://github.com/pedrogardim/musabeat)** 🎶: A web DAW (Digital Audio Workstation).
+- I'm currently enrolled in the **GeeksHub Fullstack Web Developer Bootcamp**📚, where I'm honing my skills as a developer.
+<!--
+- and created some projects as:
+  **[GameboyJS](https://github.com/pedrogardim/modulab)** : A iteractive gameboy .
+  -->
 
-## 🛠️ Personal Projects
-- **Modulab**: A modular playground for web components.
-- **Musabeat**: Blending music with heartbeats for a unique auditory experience.
-
-## 📚 Currently Learning
-I'm currently enrolled in the **GeeksHhub Fullstack Web Developer Bootcamp**, where I'm honing my skills and diving deeper into the intricacies of full-stack development.
-
-## 🤝 Let's Connect!
+#### 🤝 Let's Connect!
 Feel free to reach out if you'd like to collaborate or just chat about web development, my projects, or anything tech-related. I'm always open to new opportunities and ideas!
 
 
